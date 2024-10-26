@@ -6,3 +6,4 @@ Qt：6.7
 IDE：VS2022
 **功能**
 二维多边形的交、并、差运算
+感谢https://github.com/LinzhouLi/Polygon-Boolean-Operations的思路启发
